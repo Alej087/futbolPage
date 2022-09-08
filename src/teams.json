@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "teamName": "Aguilas",
+        "ranking": "1",
+        "qGamesPlayed": 10,
+        "points": 50
+    },
+    {
+        "id": "2",
+        "teamName": "Osos",
+        "ranking": "5",
+        "qGamesPlayed": 6,
+        "points": 20
+    },
+    {
+        "id": "3",
+        "teamName": "Abejas",
+        "ranking": "3",
+        "qGamesPlayed": 9,
+        "points": 45
+    }
+]

@@ -1,0 +1,16 @@
+.table {
+    width: 40%;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 30%;
+}
+
+.titleTable {
+    background-color: rgb(64, 64, 239);
+    color: white;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 20px;
+}

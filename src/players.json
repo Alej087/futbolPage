@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "playerName": "David González",
+        "teamName": "Aguilas",
+        "ranking": "1",
+        "qGamesPlayed": 10,
+        "qGoals": 15
+    },
+    {
+        "id": "2",
+        "playerName": "Lenox Almonacid",
+        "teamName": "Aguilas",
+        "ranking": "4",
+        "qGamesPlayed": 8,
+        "qGoals": 10
+    },
+    {
+        "id": "3",
+        "playerName": "Lina Toro",
+        "teamName": "Osos",
+        "ranking": "8",
+        "qGamesPlayed": 5,
+        "qGoals": 8
+    }
+]

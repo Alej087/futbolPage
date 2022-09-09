@@ -5,7 +5,7 @@ export default function Layout() {
     return (
         <div>
             <nav className={styles.navbar}>
-                <Link to="/home" className={styles.navbarLink}>
+                <Link to="/" className={styles.navbarLink}>
                     Home
                 </Link>
             </nav>

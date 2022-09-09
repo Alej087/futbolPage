@@ -1,7 +1,7 @@
 import styles from "./ranking.module.css";
 import teams from "../../teams.json";
 
-export default function Ranking(params) {
+export default function Ranking() {
     const teamsInfo = teams;
     return (
         <div>
